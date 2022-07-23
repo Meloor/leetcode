@@ -1,3 +1,9 @@
 
 
 .vscode
+
+# java
+*/bin
+*.class
+# cpp
+*.out
